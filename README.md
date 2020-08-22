@@ -22,5 +22,5 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-    <img align="left" alt="theo-coder Github Stats" src="https://github-readme-stats-git-master.theo-coder.vercel.app/api?username=theo-coder&show_icons=true&hide_border=true" />
+    <img align="left" alt="theo-coder Github Stats" src="https://github-readme-stats-git-master.theo-coder.vercel.app/api?username=theo-coder&show_icons=true&hide_border=true&theme=blue-green" />
 </details>
