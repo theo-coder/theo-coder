@@ -41,7 +41,7 @@
 
 <div align="center">
   
-  [![](https://github-readme-stats.vercel.app/api/wakatime?username=theo-coder&layout=false)](https://theo.posty.fr)
+  [![](https://github-readme-stats.vercel.app/api/wakatime?username=theoCoder&layout=false)](https://theo.posty.fr)
   [![theo wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-coder&langs_count=6&layout=compact)](https://theo.posty.fr)
   
 </div>
