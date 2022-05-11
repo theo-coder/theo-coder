@@ -30,9 +30,9 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-    <br />
+  <br />
   
-    [![Théo stats](https://github-readme-stats.vercel.app/api?username=theo-coder&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Theo stats](https://github-readme-stats.vercel.app/api?username=theo-coder&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
