@@ -1,28 +1,47 @@
-### Hi there, I'm [Théo](https://www.theo.posty.fr) - aka theo-coder 👋
-[![Website](https://img.shields.io/website?label=theo.posty.fr&style=for-the-badge&logo=Tumblr&url=https%3A%2F%2Ftheo.posty.fr)](https://theo.posty.fr)
+<div align="left">
+  
+  [![Website](https://img.shields.io/website?label=theo.posty.fr&style=for-the-badge&logo=Tumblr&url=https%3A%2F%2Ftheo.posty.fr)](https://theo.posty.fr)
+  
+  
+  [![Rust](https://img.shields.io/badge/Rust-blue?style=for-the-badge&logo=appveyor)](https://www.rust-lang.org/)
+  [![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=appveyor)](https://www.typescriptlang.org/)
+  [![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=appveyor)](https://www.php.net/)
+  [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=appveyor)](https://reactjs.org/)
+  [![Symfony](https://img.shields.io/badge/Symfony-blue?style=for-the-badge&logo=appveyor)](https://symfony.com/)
+  [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=appveyor)](https://sql.sh/)
+  [![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=appveyor)](https://www.java.com/)
+  [![...](https://img.shields.io/badge/...-blue?style=for-the-badge&logo=appveyor)](https://theo.posty.fr)
 
-## I'm a Student, Developer, and Climber!
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</div>
 <br />
 
-### Spotify Playing 🎧
-[<img src="https://novatorem-git-master.theo-coder.vercel.app/api/spotify-playing" alt="theo-coder Spotify Playing" width="350" />](https://open.spotify.com/user/21skuxatfhhsa6vqbwwcm4cby)
+## Top Repos
+
+<div align="center">
+  
+  [![chess-react](https://github-readme-stats.vercel.app/api/pin/?username=theo-coder&repo=chess-react&theme=algolia)](https://github.com/theo-coder/chess-react)
+  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=theo-coder&repo=Portfolio&theme=algolia)](https://github.com/theo-coder/Portfolio)
+  [![FCSC 2020](https://github-readme-stats.vercel.app/api/pin/?username=teissieryannis&repo=FCSC-2020&theme=algolia)](https://github.com/TeissierYannis/FCSC-2020)
+  
+</div>
+
 <br />
 <br />
+
 <details>
   <summary>:zap: Github Stats</summary>
-    <img align="left" alt="theo-coder Github Stats" src="https://github-readme-stats-git-master.theo-coder.vercel.app/api?username=theo-coder&show_icons=true&hide_border=true&theme=blue-green" />
+    <br />
+  
+    [![Théo stats](https://github-readme-stats.vercel.app/api?username=theo-coder&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
+
+
+## Programming Stats
+
+<div align="center">
+  
+  [![](https://github-readme-stats.vercel.app/api/wakatime?username=theo-coder&layout=false)](https://theo.posty.fr)
+  [![theo wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theo-coder&langs_count=6&layout=compact)](https://theo.posty.fr)
+  
+</div>
